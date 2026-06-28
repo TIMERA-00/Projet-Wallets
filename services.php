@@ -76,6 +76,6 @@ function afficherTransactionsService(){
         if(isset($t["frais"])){
             echo "\nFrais : " . $t["frais"];
         }
-        echo "\n--------------------\n";
+        echo "\n************\n";
     }
 }
